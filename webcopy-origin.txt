@@ -1,0 +1,332 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\ajax\libs\jquery\1.11.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:9815605e9c56a9c018f3624f85e0027b1ef54cef37bacd991aea25f7b4b9edfc&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://козельск-ювелир.рф/
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\index.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/?page=2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\index-1.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/assets/components/minishop2/css/web/default.css
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\minishop2\css\web\default.css
+Content Type: text/css
+
+Uri: https://козельск-ювелир.рф/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.css
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\minishop2\css\web\lib\jquery.jgrowl.min.css
+Content Type: text/css
+
+Uri: https://козельск-ювелир.рф/assets/components/minishop2/js/web/default.js
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\minishop2\js\web\default.js
+Content Type: application/x-javascript
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00001.179575a463413404a6341b3be433a001.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00001.179575a463413404a6341b3be433a001.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00001.208c08430b662767e65fb02159d077f0.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00001.208c08430b662767e65fb02159d077f0.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00001.263f0d361ee5ed561af2fda997a12e6b.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00001.263f0d361ee5ed561af2fda997a12e6b.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00001.c11c7c581755e547060c08460b775ec8.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00001.c11c7c581755e547060c08460b775ec8.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00001.e9ca4e8bf10dbc4bcd4e56c2e7086d51.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00001.e9ca4e8bf10dbc4bcd4e56c2e7086d51.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00001.f4ea903fd2579a12582c2a6b9249d57d.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00001.f4ea903fd2579a12582c2a6b9249d57d.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00002.3295c6e238b1d1486da6ed9439bc8f25.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00002.3295c6e238b1d1486da6ed9439bc8f25.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00002.33712c718443d0e176e5f9d6a8bf9369.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00002.33712c718443d0e176e5f9d6a8bf9369.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00002.923c9360fd98230be9179bf2be772b72.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00002.923c9360fd98230be9179bf2be772b72.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00002.b7a8048a3cf25c77bbf756a4a0bdc1ae.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00002.b7a8048a3cf25c77bbf756a4a0bdc1ae.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00003.5cb812e4f26c1030090392abf33cc7fb.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00003.5cb812e4f26c1030090392abf33cc7fb.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00003.659ed175d033810ca4119b76cebcc3b7.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00003.659ed175d033810ca4119b76cebcc3b7.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00003.9cd43d485f2ff05f781cc5fd6aff8817.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00003.9cd43d485f2ff05f781cc5fd6aff8817.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00004.5d289881c9a8da14a35d1805aac1c167.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00004.5d289881c9a8da14a35d1805aac1c167.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00005.72570ad43f723f5c86e550fab928c6bf.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00005.72570ad43f723f5c86e550fab928c6bf.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00005.fcdb524f7214fff0852f341f429c6e72.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00005.fcdb524f7214fff0852f341f429c6e72.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00006.e7ea054e1f868d264c0cee422224fe67.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00006.e7ea054e1f868d264c0cee422224fe67.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00007.a5af0d3947009d4dc559dd9d1279f5b9.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00007.a5af0d3947009d4dc559dd9d1279f5b9.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00008.0b330218c6edfeacb84939aa5f8fc757.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00008.0b330218c6edfeacb84939aa5f8fc757.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-00013.7c2f4893b4a2af5552e4546901c7fc84.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-00013.7c2f4893b4a2af5552e4546901c7fc84.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-braslet-000518.27412209a0f36a5ade2c8217f4f1e73b.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-braslet-000518.27412209a0f36a5ade2c8217f4f1e73b.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-braslet-000526.c79802aefc63e0fa22f773bfe4418e36.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-braslet-000526.c79802aefc63e0fa22f773bfe4418e36.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-kolca-003417.a13efc5c728c75aebf943e50a8a99b1d.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-kolca-003417.a13efc5c728c75aebf943e50a8a99b1d.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-kolca-003429.6336e95b0f8fb3545b8ae0eb6f3841fe.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-kolca-003429.6336e95b0f8fb3545b8ae0eb6f3841fe.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-kolca-003448.ca76c84cdf7ac6ea8685e4d87d20e228.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-kolca-003448.ca76c84cdf7ac6ea8685e4d87d20e228.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/phpthumbof/cache/masteruvelir.ru-krestiki-000700.6e5f66b012e56e3d36bfa49026b43b2a.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\phpthumbof\cache\masteruvelir.ru-krestiki-000700.6e5f66b012e56e3d36bfa49026b43b2a.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/components/seodomains/js/web/default.js
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\components\seodomains\js\web\default.js
+Content Type: application/x-javascript
+
+Uri: https://козельск-ювелир.рф/assets/images/chains-bghover.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\chains-bghover.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/favicon/favicon-32x32.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/favicon/favicon.ico
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/cepi/8.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\cepi\8.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/muzh/7.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\muzh\7.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/obruch/5.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\obruch\5.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/podveski/6.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\podveski\6.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/pomol/2.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\pomol\2.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/sergi/8.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\sergi\8.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/zaponki/zaponki-krest-zvezda-masteruvelir.ru-7.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\zaponki\zaponki-krest-zvezda-masteruvelir.ru-7.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/zhenskie/3.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\zhenskie\3.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/izgotovlenie/znak/zolotoi-znak-vdv-iz-zolota-masteruvelir.ru-4.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\izgotovlenie\znak\zolotoi-znak-vdv-iz-zolota-masteruvelir.ru-4.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/assets/images/jewelerstones-bghover.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\jewelerstones-bghover.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/logo.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/oplata/beznal.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\oplata\beznal.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/oplata/mastercard.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\oplata\mastercard.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/oplata/nal.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\oplata\nal.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/oplata/visa.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\oplata\visa.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/oplata/yandex_dengi.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\oplata\yandex_dengi.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/productioncopies-bghover.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\productioncopies-bghover.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/productionjewelry-bghover.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\productionjewelry-bghover.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/assets/images/repairjewelry-bghover.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\assets\images\repairjewelry-bghover.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/contacts.html
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\contacts.html
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/katalog-3d/
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\katalog-3d\index.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/katalog-3d/?page=2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\katalog-3d\index-1.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/na-zakaz/
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\na-zakaz\index.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/na-zakaz/?page=12
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\na-zakaz\index-5.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/na-zakaz/?page=2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\na-zakaz\index-1.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/na-zakaz/?page=3
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\na-zakaz\index-2.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/na-zakaz/?page=4
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\na-zakaz\index-3.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/na-zakaz/?page=5
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\na-zakaz\index-4.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/css/style.css
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\css\style.css
+Content Type: text/css
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/MaterialIcons-Regular.woff2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\MaterialIcons-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/open-sans-v17-latin_cyrillic-600.woff2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\open-sans-v17-latin_cyrillic-600.woff2
+Content Type: application/font-woff2
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/open-sans-v17-latin_cyrillic-700.woff
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\open-sans-v17-latin_cyrillic-700.woff
+Content Type: application/font-woff
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/open-sans-v17-latin_cyrillic-700.woff2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\open-sans-v17-latin_cyrillic-700.woff2
+Content Type: application/font-woff2
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/open-sans-v17-latin_cyrillic-800.woff2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\open-sans-v17-latin_cyrillic-800.woff2
+Content Type: application/font-woff2
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/open-sans-v17-latin_cyrillic-italic.woff2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\open-sans-v17-latin_cyrillic-italic.woff2
+Content Type: application/font-woff2
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/fonts/open-sans-v17-latin_cyrillic-regular.woff2
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\fonts\open-sans-v17-latin_cyrillic-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/images/ideareality-bg4.jpg
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\images\ideareality-bg4.jpg
+Content Type: image/jpeg
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/images/logo-master.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\images\logo-master.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/images/pattern1.png
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\images\pattern1.png
+Content Type: image/png
+
+Uri: https://козельск-ювелир.рф/new_masteruvelir/template/js/allscripts.js
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\new_masteruvelir\template\js\allscripts.js
+Content Type: application/x-javascript
+
+Uri: https://козельск-ювелир.рф/o__maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\o__maxcdn.bootstrapcdn.com\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://козельск-ювелир.рф/o__www.googletagmanager.com/gtag/js
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\o__www.googletagmanager.com\gtag\js
+Content Type: text/plain
+
+Uri: https://козельск-ювелир.рф/price.html
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\price.html
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/service/
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\service\index.htm
+Content Type: text/html
+
+Uri: https://козельск-ювелир.рф/sitemap.html
+File Name: C:\projects\Fox\SiteJeweler\ContractorSaves\24.03.2022_app\козельск-ювелир.рф\sitemap.html
+Content Type: text/html
+
